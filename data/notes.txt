@@ -1,0 +1,23 @@
+Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science
+that focuses on creating intelligent machines capable
+of performing tasks that normally require human intelligence.
+
+Breadth First Search
+
+BFS is an uninformed search algorithm.
+It explores nodes level by level.
+BFS uses a FIFO queue data structure.
+
+Depth First Search
+
+DFS is an uninformed search algorithm.
+It explores as deeply as possible before backtracking.
+DFS uses a stack data structure.
+
+Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence.
+It enables computers to learn patterns from data
+without being explicitly programmed for every task.
